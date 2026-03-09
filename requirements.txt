@@ -11,3 +11,4 @@ numpy==2.4.1
 scipy==1.17.0
 phik==0.12.5
 scikit-learn==1.7.0
+joblib==1.5.3
